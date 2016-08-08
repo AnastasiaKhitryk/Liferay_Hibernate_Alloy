@@ -1,0 +1,1 @@
+# Liferay_Hibernate_Alloy
